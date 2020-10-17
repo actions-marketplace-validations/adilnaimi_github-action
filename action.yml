@@ -1,0 +1,15 @@
+# Until this issue is solved https://github.com/serverless/github-action/issues/3
+
+author: 'Me'
+
+branding:
+  icon: 'box'
+  color: 'green'
+
+description: 'Not sure yet.'
+
+name: 'serverless-action-python'
+
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
