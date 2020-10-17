@@ -1,4 +1,4 @@
-FROM node:12-slim
+FROM nikolaik/python-nodejs:python3.7-nodejs12-stretch
 
 
 LABEL version="1.0.0"
